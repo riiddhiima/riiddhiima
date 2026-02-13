@@ -44,8 +44,7 @@
 
 ## 🚀 Featured Projects
 
-### 📘 Exam Study Helper  
-🔗 https://github.com/riiddhiima/Exam-Study-Helper  
+### 📘 [Exam Study Helper](https://github.com/riiddhiima/Exam-Study-Helper)  
 
 A web-based study management tool designed to help students organize and prepare for exams efficiently.
 
@@ -55,8 +54,7 @@ A web-based study management tool designed to help students organize and prepare
 
 ---
 
-### ⚖️ LawLiet – Legal Assistant Bot  
-🔗 https://github.com/riiddhiima/LawLiet  
+### ⚖️ [LawLiet – Legal Assistant Bot](https://github.com/riiddhiima/LawLiet)  
 
 A web-based legal assistant that helps users retrieve legal information through structured responses.
 
