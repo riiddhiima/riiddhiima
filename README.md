@@ -35,7 +35,7 @@
 `Python` `JavaScript` `HTML` `CSS`
 
 ### ⚙️ Frameworks & Tools
-`Flask` `Git` `GitHub` `Bootstrap`
+`Flask` `Git` `GitHub`
 
 ### 📚 Concepts
 `DSA` `OOP` `REST APIs`
