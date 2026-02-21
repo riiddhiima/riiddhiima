@@ -64,6 +64,21 @@ A web-based legal assistant that helps users retrieve legal information through 
 
 ---
 
+### ✅ [TaskSync — Smart Task Manager with Reminders](https://github.com/riiddhiima/tasksync)  
+🌐 Live Demo: https://amazing-sable-ecf7f9.netlify.app/
+
+A full-stack task management web application that helps users organize tasks, track deadlines, and receive automated reminders.
+
+✔ Built using **Flask, MySQL, HTML, CSS, JavaScript**  
+✔ Secure authentication with **JWT** and **bcrypt**  
+✔ Full **CRUD** support for tasks with filters (All / Pending / Done)  
+✔ Priority levels: **Low / Medium / High**  
+✔ Automated **email reminders** 24 hours before deadlines (Gmail SMTP)  
+✔ Responsive frontend connected to a Flask backend  
+✔ Deployed using **Render, Railway, and Netlify**  
+
+---
+
 ## 💻 Tech Stack (Badges)
 
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
