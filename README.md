@@ -75,7 +75,7 @@ A full-stack task management web application that helps users organize tasks, tr
 ✔ Priority levels: **Low / Medium / High**  
 ✔ Automated **email reminders** 24 hours before deadlines (Gmail SMTP)  
 ✔ Responsive frontend connected to a Flask backend  
-✔ Deployed using **Render, Railway, and Netlify**  
+✔ Deployed using **Koyeb, Railway, and Netlify**  
 
 ---
 
