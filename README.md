@@ -102,11 +102,7 @@ A full-stack task management web application that helps users organize tasks, tr
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=riiddhiima&show_icons=true&theme=radical" />
-  <br><br>
   <img src="https://streak-stats.demolab.com?user=riiddhiima&theme=radical" />
-  <br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=riiddhiima&layout=compact&theme=radical" />
 </p>
 
 ---
